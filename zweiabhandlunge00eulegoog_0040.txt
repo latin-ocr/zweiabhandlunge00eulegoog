@@ -1,0 +1,56 @@
+Γῆς. 4.
+
+36 L. Euler.
+
+Ausgabe X.
+
+63. In ciuem spharisehen Dreieck sind bekannt zwen'
+Seiten «md der Geqemm‘nkel der einem oder zwei Wirdoel
+und die Geyenseite des einen. Blcm soll die ilhriqen δίνῃ-ἦε
+[les Hreiecks bestimmten.
+
+Anflbsung.
+
+Im Dreieek ABG seien itu ersten
+Falx gegeben die zwei Seiteu B0= a
+und AC: b7 sowie der Winkel Α,
+der Gegeuwinkol von a⁴ Es ergiobt
+sich dmm sosurt der Winkel B, der
+
+‡ Gegnnwinkel der zweiteu gegebfflm„
+Β ’χαῌ ‘¹ , . sinai ,
+Fig. 4. Sextey aus smB = siin] sm b,
+
+Im zweiteu Pane zelen A und B
+die gegebeneu Wiukel, BC: a die gegebene Seite; man er-
+halt dam] zumichst die Seite l» aus siub z ⁵⁸:32 sin B.
+
+Im einen und anderu Fan kann man also als gegebeue
+Sffleke anseheu die zwei Seiteu BO= α und AC: b, so-
+wie die ihneu gegenflberliegenden Winkel A und B3 man
+hat aus diesen smcken die Seite ΑΒ Ξ 0 und den Winkel O
+zu bereehuen.
+
+Die erste Fon-mel der Gruppe IV liefert:
+
+A
+
+ 
+
+sina th— sinBtgc Ξ cosa cosB thtgcy
+und also auch, mit Vertauschuug der Seiten (ι und b und
+gleichzeitig der Winkel A und Bz
+
+sin 21thss siuA tgc ε ωε I> cosA agotgc*
+Elimiuirt man aus beiden Gleichungeu das eine mal tg U,
+das andere mal (gc, so erhalt man:
+
+siu A siu a — sin B sin b
+
+‘g Β Ξ sin A cos B cos a fi cos A siu B cos h und
+. , siuAsina—sinBsinh
+'gb Ζ oosB eona niub — eosA siu a cosb-
+Una diesen Gleiclmugen ist noch hinzuzufngen:
+
+sin A sin b z ain B sin a.
+

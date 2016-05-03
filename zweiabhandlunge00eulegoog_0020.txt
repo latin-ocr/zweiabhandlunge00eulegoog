@@ -1,0 +1,74 @@
+16 L⁴ Euler.
+
+Meridiau Om seille man von M nus das Loth Mm es ist daun,
+wenu der Halbmesser der Kugel die Lffingeneinheit ist,
+mn = dx, der Winke1 MOm Ξ ¹297 Mn = dy - sinz. Man
+erhfllt hiel-aus:
+
+dysiux dx
+
+Mn - dy sinz und ww z .
+ds ds
+
+tngffi— clx
+
+ 
+
+oder siu φ =
+
+ 
+
+Da nun Q VUEfssffly siu z)'³ ist, so soll
+,l⁴V(ax]²4-(dy³iuzy³ ein Minimum werden. Sem man
+dy :p-dz, ευ ist also, mie Z: V1÷(psiux)²‚ der
+Ausdruok sZdz zum Minimum zu macheu. Ist unu allge-
+mein ιιΖ = Mdz -i- Ndy 4- Pdp, so ist die Bedinguug des
+Minimums: Nslm »— dP= ῡ Iu Auwemlung aus unseru
+Fan m N: ο, ΡΞῌ-Ρωῖῗ
+
+V] ψ [p mxl*
+
+ 
+
+7 also unsel-e Bedingung
+
+ 
+
+fm· das Minimum:
+
+dl²= ο, d. h. ΡΖ Consu,
+oder es muss sein:
+dy siu‘x
+
+,ᾖ
+psum περ* ouer περ
+
+ᾖ ss [p sin x>²
+
+ 
+
+ 
+
+oder
+dy siu’ x
+ds
+
+ 
+
+= sinz simp = (Ι
+
+Zur Bestimmung von 0 ist zu hemerken, dass mit ver-
+schwindendem Winkel EOM: y werden muss x ζ a und
+φ z 180⁰—st oder εῐηφ Ξ sinu, d. h* man erhilt aus
+diesem Greuzfall sin u siu α = C. Das Minimum ἐπίοι-«13η
+also die Gleiehung:
+
+Q Ξ sina sina⁴
+
+νζιιῑγ -ῥ- (dy sin ιγ
+
+Um meze Differentialgmiehuug zu integrirnn, hat mnu, wenu
+fut sina sinor vorlssufig wieder 0 gesetzt wird,
+dy Ξ ——Q-,j und damit
+sinz Vs5u² ,τ —- ί)Ξ
+

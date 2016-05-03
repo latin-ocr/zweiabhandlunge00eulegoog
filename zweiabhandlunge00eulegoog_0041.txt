@@ -1,0 +1,53 @@
+Grundzflge der sphfirisehen Trigonometrie. 37
+
+Zusatz 1.
+
+64« Aus siu A : sin B = sin a : sin b solgt, dass die
+Gleiohungeu fur lg c und ἲς 0 auch so geschriebeu werden
+kfinneu:
+
+six? α - sini b
+*μ ² ΜΒ sinA cosa ψ eom sinz: ansb '¹¹⁸³
+siu‘A —— sin‘B
+‘¹3⁶² ⁵511ss 00³3 cosa ἡ sina cosA ansb*
+
+Zusatz 2.
+
+65⁴ Bequemere, besonrlers fiir die logarithmisohe Rech-
+nung sich besser eignende Formelu erhssle man aber auch
+hier wieder durch Benutzuug der Gleiehungen in fleu ξς 43,
+44, 53 und 54, natulich:
+
+ 
+
+ 
+
+ 
+
+«ςὲοῖψξζζξξῇἶξζ mg ὲ (α ψ ω ²2¹⁰&ssssss tgssza κ b),
+‘5301ssssssss ζ ΞζοῑὲὲίΛ ΔΓΒ, εὲἓ {Z ζ Ξςοηςὲμ-Β),
+Aufgabe XI.
+
+65⁴ Die Obefflsiche eines beliebiqen splza'risohen Drei-k*
+ecks zu bestimmen.
+
+Auslb‘sung.
+
+Es sei E OM das
+gegebeue Dreieck und es
+werden, wie οὴευίιιξ 17,
+die Seite OE mit a7 ‹lex-
+Winkel ο EM mit a,
+der Winke1 EOM mit y,
+die Seite OMmit x und
+der Wiukel OME mit Δ
+
+ 
+
+φ bezeichnen. Das ιιῃ- ΠΕ, 3,
+
+eudlioh schmale Dreleek
+
+Mem ise <las Differential der gesuehten Dreiecksflachffi und
+da mn π dx und Mn = dy · sinz ist, so wira das Diffe-
+

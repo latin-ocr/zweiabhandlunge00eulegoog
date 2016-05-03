@@ -1,0 +1,54 @@
+Angemeine sphfirische Trigonometrie. 45
+
+ξ 11. Um auch die eutspreohenden beiden reciproken
+Aufgaben, mit. Winkeln statt Seiten und umgekehrt, zu er>
+ledigen, steht die sehon oben entwiokelte eriehung
+
+eosC'zm eosAcosB-o-sinAsiuBoose
+
+zu Gebot3 sie ist uumittexbar in dieser Fon-tn anzuwenden,
+wenn aus zwei gegebenen Winkeln A und B und dm· zwiseheu-
+liegenden Seite e der firme, dieser Seite gegenflberliegende
+Wiukel Ο zu bestimmen ist, Sind dagssgen die drei Winkel
+des sphizrischen Dreieokn gegeben, so bestimmt man z⁴ B. die
+Seite c durch dieselbe Gieiehung in der Foru}
+
+(ὶῡε(ἵνὲ-υοεςΛωοεΒ4
+
+⁰⁰⁵ ⁶ ἶ sin A sin Β
+
+ξ 12. Die ganza sphssrisehe Trigonometrie sffltzt sich
+
+auf die oben aufgestellteu ἄνεί Gleiehnngen, und in ihnen
+
+zeigt sich itherall die gleichzeitige Emetzung jeder Seite dux-ch
+
+den gleiehuamigen Wiukel und nmgekehrt statthaft, wenn man
+
+mn· alle vorkommenden Cos negativ nimmt, In der ersten
+jener Formam, die keinen Oos enthElt:
+
+sinc—- sinBsssin A
+sinc ‘W ‘ffb
+
+ 
+
+ist die Zulsssigkeit dieser Vertausohnng an sich einleuchtenrl3
+aber anah die zwei andern Formeln zeigen nach dem Vor-
+stehenden unmittelhar die Meguchkeit der gleichzeitigen und
+volxsfflndigeu Ersetzuug der Seiten durch die gleiehnamigen
+Wiukel und umgekehrt, wobei die angegebene Bemerkung iiber
+die Cos zu beachten isty und man hat demnach folgenden
+
+Satz.
+
+W mn die Wiulcel eines beliebiyen spbar-[solem Dreieelcs
+mit A, Β, 0 und die semen mit a, 17, ο hamme werden,
+so qiebt es stet& ein amloeres sphEriscltex Dreicck, des-sen
+Winkel die Seilen a, b, c senes yeyebenen Dreiecks zu :wei
+Rechten erquinzmz, wdlzrend scine Seilen die Winkel A, B, U
+des yeyebenen Dreiecks zu zwei Rechten erydnzen.
+
+Bei dm· Ahleitung irgeuvl eines neuen Satzes uber das
+spharisehe Dreieok aus einern an dem ursprflngliehen Dreieck
+

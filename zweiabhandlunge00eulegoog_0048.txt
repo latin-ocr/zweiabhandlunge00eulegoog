@@ -1,0 +1,50 @@
+44 L. Euler.
+
+ξ 94 Selbst cler Fau, dass aus deu drei gegebeuen
+Wiukeln die Seiten gesuoht worden, lsssst sich leicht vnn der
+an der Spitze dieses Absohnitts stehenden Pol-mel ausgehend
+behandeln. Diese Gleichung
+
+cos Α sin c z cos a sin l> ξ sina cos b cos C
+liefert durch Vertauschung von A und B
+eosB sinc = cnsb sina ›- sin b cosa eosC‘3
+
+weun die zweite Gkichung, nach Durehmultiplieation mit
+cos O, zur ersten addire wil-d, so erhalt man:
+
+siu e(c‹>sA ÷ cosB eos 0) = cos a sin h 3ἱηῖ O, oder da
+sin b sin C Ξ sin B sin e ist:
+
+eos A 4- cos B cos C z cos a sin B sin C oder endlich
+
+cos A ἶ ἡ(ιοεΒεοεΟ-Ι-εἰιιλῑί sinCoosa⁴
+
+Vertausoht man A und (J, wffismnd B an semer Stena bleibt,
+so wirrl feruet noch:
+
+cosC=—oosBcosA÷sinBsiuAcosc
+
+und dies sind die gesuehten Gleiohuugen. Die letzte folgz
+auch wieder aus der dritten Hauptfurmel:
+
+cos c = cos a oon b -ι- siu α sin b eos U,
+
+wem] man in dieser die grosseu und kleiuen Buehstahou ver-
+tausoht und asse Cos negativ uimmt.
+
+Benutzung der Formcl:
+cose Ξ cosa wsb ’'- sina siu b aoso.
+ξ 10, Diese Formel lxsst unmitlelbar einen doppelten
+
+Gebrauch zu; in dem Falle nffiussich, dass aus den dsei ge·-
+gebenen Seite„ a, b, c die Winkel anfzusuohen sind, hat man:
+
+00³0: cose ᾉ οῠεαοοεέ»ν
+sina siu b
+
+wenn man dagegen aus zwei Seiteu α, b und dem zwischen-
+liegendeu Winkel 0 die dritta Seite zu bostimmen hat, so
+wendet man die Gleichung in ihrer urxprfingliehen Form an:
+
+cose :cosacosb 4- sinasiubeosC.
+

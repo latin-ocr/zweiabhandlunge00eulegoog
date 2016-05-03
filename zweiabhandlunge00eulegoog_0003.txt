@@ -1,0 +1,54 @@
+BIBLIOGRAPHIC RECORD TARGET
+
+Graduate Library
+University of Michigan
+
+Pteservation Office
+
+Storage Number:
+
+ABN7435
+
+UL FMT B RT a BL m Τίς DT 07s18s88 RsDT 12s08s92 CC STAT mm EsL 1
+010: 2 Ι a 03012895] s 185
+
+035s1: ; Ι a (RLIN)MIUG86-B46866
+
+035s2: z Ι a (CaOTULASJ160036611
+
+040: ; la DLCsICU 101OE ld MiU
+
+041:1 : {a ger {h frelat
+
+050s1:0: la QA535 1b.E88
+
+10οῑ1 z {a Euler‘ Leonhardf ld 1707-17834
+
+245200: {a Zwei abhandlungen iiber spharische ffigonomeisie. lb Grundziige
+der spharischen trigonometrie und Allgemeine spharische trigonometrie 1753
+und 1779* {c Von Leonhard Euler. Aus dem franzcssischen und. lateinischen
+iibers⁴ und hrsg. von E. Hammer. Mit 6 figuren im text.
+
+260: t Ι a Leipzig! Ι b W. Engelmann' Ι c 1896.
+
+300s1: : {a 657 [1] p⁴ {b diagr. Ιε 20 cm⁴
+
+440s1: 0: {a Ostwalds Klassiker der exakten Wissenschaften. Ιν nr. 73
+
+500s1: z Ι a Original fifles: Ι. Principes de la trigonometrie sphcriques
+
+tirses de la methode des plus grands et plus petita* memoires de l'Academie
+royale des sciences et belles-lettres (Berlin) classe de philosophie
+experimenmlef tome 9, annae 1753. [Berlin‘ 17551--1L Trigonomekria sphaerica
+universal ex primis principiis breviter et dilucide derivata} Acta Academiae
+
+Scanned by Imagenes Digitales
+Nogales, AZ
+
+On behalf of
+Preservation Division
+The University of Michigan Libraries
+
+Date work Began:
+Camera Operator:
+
